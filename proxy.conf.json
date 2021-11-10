@@ -1,6 +1,10 @@
 {
     "/api/*": {
+<<<<<<< HEAD
       "target": "http://localhost:3000",
+=======
+      "target": "http://localhost:8000",
+>>>>>>> main
       "secure": false
     }
   }
